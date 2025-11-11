@@ -1,0 +1,17 @@
+.vyhledavac {
+    background-color: whitesmoke;
+    text-align: center;
+    margin: 80px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+body {
+    background-color: rgb(60, 101, 137);
+}
+
+.img {
+    max-width: 50px;
+    margin: 80px;
+    margin-bottom: 20px;
+}
